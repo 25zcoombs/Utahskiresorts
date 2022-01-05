@@ -1,0 +1,25 @@
+body{
+  background-color: #1A3C40;
+  color: #E4EDDB;
+  text-align: center;
+}
+hr{
+  color: #144D53;
+  text-align: center;
+}
+h1{
+  color:#929AAB;
+  text-align: center;
+}
+h2{
+  color:#929AAB;
+}
+h3{
+  color:#929AAB;
+}
+.link{
+  color: #D8E3E7;
+}
+table{
+  align-items: center;
+}
